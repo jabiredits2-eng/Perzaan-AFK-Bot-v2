@@ -1,14 +1,14 @@
 {
-  "name": "jabirempire_74537",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Cyanpixel.aternos.me",
-    "port": 38387,
-    "version": "26.2"
+    "ip": "example.aternos.me",
+    "port": 75375,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
